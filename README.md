@@ -1,2 +1,2 @@
 # python-javoblar
-Ushbu repositoryda Pythondan masalarga javoblar bor!
+Ushbu repositoryda Pythondan masalalarga javoblar bor!
