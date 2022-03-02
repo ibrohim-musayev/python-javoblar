@@ -6,5 +6,3 @@ if login in users:
     print('Login band, yangi login tanalng!')
 else:
     print("Xush kelibsiz!")
-x=8
-y=12
